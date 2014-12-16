@@ -1,6 +1,6 @@
-# Resource Name
+# Resource Name - Lesson 1
 
-Short description of the resource
+Short description of the lesson
 
 ## The First Step
 
@@ -18,7 +18,11 @@ First we'll do X.
 
     In Python the `print` function is something
 
-1. Now do D
+1. Now do D:
+
+    ![](images/gpio-setup.png)
+
+    Wire up the button to pin 17 and ground
 
 1. Now do X
 
