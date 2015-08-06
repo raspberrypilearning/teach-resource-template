@@ -51,7 +51,7 @@ Starter...
 
 Plenary...
 
-## Extension
+## Homework
 
 - Something
 - Something else
